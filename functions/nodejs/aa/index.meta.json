@@ -1,0 +1,16 @@
+{
+  "apiID": "package_8baed3__c__function_aadfrt2fdo6ea",
+  "apiName": "aa",
+  "label": {
+    "zh_CN": "函数aa",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": false,
+  "input": [],
+  "output": []
+}
