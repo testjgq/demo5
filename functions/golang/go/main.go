@@ -1,4 +1,4 @@
-package getFieldGogo
+package getFieldGo
 
 import (
     "context"
