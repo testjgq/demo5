@@ -18,4 +18,5 @@
     text: await application.globalVar.getVar("globalParam_cc4c5235618"),
     };
     logger.info(JSON.stringify(globalVarValues));
+    logger.info("kk")
 }
