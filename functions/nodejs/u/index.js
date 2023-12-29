@@ -1,0 +1,1 @@
+application.globalVar.getVar('globalParam_cc4c5235618')
