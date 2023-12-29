@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@byted-apaas/designer-react": "1.4.3",
+    "react": "^17"
+  },
+  "devDependencies": {
+    "@types/react": "^17"
+  }
+}
