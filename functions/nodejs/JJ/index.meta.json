@@ -1,0 +1,39 @@
+{
+  "apiID": "package_8baed3__c__function_aadfrvwfuuibs",
+  "apiName": "JJ",
+  "label": {
+    "zh_CN": "函数JJ",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": false,
+  "input": [
+    {
+      "key": "email",
+      "type": "Email",
+      "label": "邮箱",
+      "required": false,
+      "description": ""
+    },
+    {
+      "key": "phone",
+      "type": "MobileNumber",
+      "label": "手机号",
+      "required": false,
+      "description": ""
+    }
+  ],
+  "output": [
+    {
+      "key": "output1",
+      "type": "Record",
+      "label": "出参",
+      "description": "",
+      "objectApiName": "a"
+    }
+  ]
+}
