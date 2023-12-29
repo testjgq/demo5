@@ -1,16 +1,17 @@
 {
   "apiID": "package_8baed3__c__function_aadfruhjwt6ei",
-  "apiName": "u",
+  "apiName": "uu",
   "label": {
-    "zh_CN": "函数u",
-    "en_US": ""
+    "zh_CN": "函数uu",
+    "en_US": null
   },
   "description": {
-    "zh_CN": "自定义函数",
-    "en_US": "Custom Function"
+    "zh_CN": "自定义函数1",
+    "en_US": "Custom Function1"
   },
-  "longTaskMode": false,
+  "isPublicAPI": false,
   "frontendSDKInvokable": false,
+  "longTaskMode": false,
   "input": [],
   "output": []
 }
